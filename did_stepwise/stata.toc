@@ -2,4 +2,4 @@
 1
 2
 3
-p dea Data envelopment analysis
+p did_stepwise Stepwise Difference-in-difference (DID) estimator of Harmon (2023) Use did_stepwise With STATA 18
