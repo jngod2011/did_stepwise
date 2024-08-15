@@ -3,6 +3,8 @@ Stepwise Difference-in-difference (DID) estimator of Harmon (2023) Use did_stepw
 
 Implementing estimating Treatment effect estimation in Difference-in-difference design using the Stepwise DID estimator of Harmon (2023) Use did_stepwise With STATA 18
 
+https://www.youtube.com/watch?v=vRpodkNdemg
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
